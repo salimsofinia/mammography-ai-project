@@ -1,0 +1,12 @@
+# venv
+.venv/
+# data & models
+data/
+checkpoints/
+experiments/
+# notebooks noise
+.ipynb_checkpoints/
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
